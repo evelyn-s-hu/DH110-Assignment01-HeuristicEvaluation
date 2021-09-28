@@ -1,1 +1,5 @@
-# DH110-Assignment01-HeuristicEvaluation
+# (Title of Project)
+## Evelyn Hu DH110
+
+## Assignment 01: Heuristic Evaluation of Washington
+Purpose of assignment:
