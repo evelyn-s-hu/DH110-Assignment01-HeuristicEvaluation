@@ -1,7 +1,7 @@
 # (Title of Project)
-State of Interest: Washington 
-Author: Evelyn Hu
-Course: DH110 User Interface and Design
+State of Interest: Washington  
+Author: Evelyn Hu  
+Course: DH110 User Interface and Design  
 Description: 
 
 ## Assignment 01: Heuristic Evaluation of Washington
@@ -14,11 +14,11 @@ https://access.wa.gov/
 ## Website 1:
 **Website Information:** <br>
 Insert text here.
-<br>
+<br><br>
 **Heuristic Evaluation:** <br>
 
 ## Website 2:
 **Website Information:** <br>
 Insert text here.
-<br>
+<br><br>
 **Heuristic Evaluation:** <br>
