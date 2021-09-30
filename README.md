@@ -22,16 +22,16 @@ A website dedicated to the Department of Ecology, which aims to protect, preserv
 
 | **Heuristic and Description** | **Website Evaluation** | **Recommendation** |
 | --- | --- | --- |
-| 1. Visibility of System Status | List all new or modified files | :) |
-| 2. Match Between System and the Real World | Show file differences that haven't been staged | :D |
-| 3. User Control and Freedom | Show file differences that haven't been staged | :D |
-| 4. Consistency and Standards | Show file differences that haven't been staged | :D |
-| 5. Error Prevention | Show file differences that haven't been staged | :D |
-| 6. Recognition Rather Than Recall | Show file differences that haven't been staged | :D |
-| 7. Flexibility and Efficiency of Use | Show file differences that haven't been staged | :D |
-| 8. Aesthetic and Minimalist Design | Show file differences that haven't been staged | :D |
-| 9. Help Users Recognize, Diagnose, and Recover From Errors | Show file differences that haven't been staged | :D |
-| 10. Help and Documentation | Show file differences that haven't been staged | :D |
+| 1. Visibility of System Status: The website allows the user to know what is going on, and gives users appropriate feedback to their inputs | List all new or modified files | :) |
+| 2. Match Between System and the Real World: The website uses a design, images, and language that is easily understood by users | Show file differences that haven't been staged | :D |
+| 3. User Control and Freedom: The user is able to undo and redo tasks | Show file differences that haven't been staged | :D |
+| 4. Consistency and Standards: Layout design is consistent among all pages of the website | Show file differences that haven't been staged | :D |
+| 5. Error Prevention: The website prevents common user errors by providing safety nets | Show file differences that haven't been staged | :D |
+| 6. Recognition Rather Than Recall: The website offers help and suggestions to make the user experience more effortless | Show file differences that haven't been staged | :D |
+| 7. Flexibility and Efficiency of Use: The website is accessible to all possible types of users, from experienced to novice | Show file differences that haven't been staged | :D |
+| 8. Aesthetic and Minimalist Design: The website only provides necessary and relevant information and content | Show file differences that haven't been staged | :D |
+| 9. Help Users Recognize, Diagnose, and Recover From Errors: The website describes errors in detail and offers solutions to fix it | Show file differences that haven't been staged | :D |
+| 10. Help and Documentation: The website provides users with help to successfully complete tasks | Show file differences that haven't been staged | :D |
 
 ## Website 2: Experience Wa
 **Website Information:** <br>
@@ -39,7 +39,15 @@ A website dedicated to the Department of Ecology, which aims to protect, preserv
 Insert text here.
 <br><br>
 **Heuristic Evaluation:** <br>
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| **Heuristic and Description** | **Website Evaluation** | **Recommendation** |
+| --- | --- | --- |
+| 1. Visibility of System Status: The website allows the user to know what is going on, and gives users appropriate feedback to their inputs | List all new or modified files | :) |
+| 2. Match Between System and the Real World: The website uses a design, images, and language that is easily understood by users | Show file differences that haven't been staged | :D |
+| 3. User Control and Freedom: The user is able to undo and redo tasks | Show file differences that haven't been staged | :D |
+| 4. Consistency and Standards: Layout design is consistent among all pages of the website | Show file differences that haven't been staged | :D |
+| 5. Error Prevention: The website prevents common user errors by providing safety nets | Show file differences that haven't been staged | :D |
+| 6. Recognition Rather Than Recall: The website offers help and suggestions to make the user experience more effortless | Show file differences that haven't been staged | :D |
+| 7. Flexibility and Efficiency of Use: The website is accessible to all possible types of users, from experienced to novice | Show file differences that haven't been staged | :D |
+| 8. Aesthetic and Minimalist Design: The website only provides necessary and relevant information and content | Show file differences that haven't been staged | :D |
+| 9. Help Users Recognize, Diagnose, and Recover From Errors: The website describes errors in detail and offers solutions to fix it | Show file differences that haven't been staged | :D |
+| 10. Help and Documentation: The website provides users with help to successfully complete tasks | Show file differences that haven't been staged | :D |
