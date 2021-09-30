@@ -17,8 +17,8 @@ Insert text here.
 
 | Heuristic and Description | Website Evaluation | Recommendation |
 | --- | --- | --- |
-| git status | List all new or modified files | i hate it here |
-| git diff | Show file differences that haven't been staged | fuuuuck |
+| git status | List all new or modified files | :) |
+| git diff | Show file differences that haven't been staged | :D |
 
 ## Website 2: Experience Wa
 **Website Information:** <br>
