@@ -4,7 +4,7 @@
 **Course:** DH110 User Interface and Design  
 **Description:** A heuristic evaluation of the websites of the Washington State Department of Ecology and Department of Tourism using Nielson's 10 Usability Heuristics.
 
-## Assignment 01: Heuristic Evaluation of Washington
+## Assignment 01: Heuristic Evaluation of Washington State Government Websites
 The purpose of this assignment is to evaluate various government webpages to ensure that they are designed in a way that allows for a good user experience. As government websites are accessed by all kinds of people, it is crucial that good design choices were made so that they are accessible to everyone who views it. As someone who grew up in Seattle, Washington, one of the things I miss the most about Washington is its beautiful nature. The Pacific Northwest is famous for its breathtaking sceneries and hiking spots, and for good reason - the sights are truly one to behold. By inspecting the Departments of Ecology and Tourism, I would like to encourage more people to attain more information about these respective departments and one day experience the sights for themselves, through the act of improving upon the websites.  
 
 ## Severity Ratings of Usability Problems by [Nielsen Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
